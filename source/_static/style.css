@@ -1,0 +1,17 @@
+div.footer {
+  width: fit-content;
+  margin: 20px auto;
+}
+
+/*
+div.document {
+  word-break: break-word;
+}
+table{
+  width: calc(100vw - 60px);
+    margin: 0!important;
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+*/
