@@ -30,7 +30,7 @@ All following nodes are opening for peering over wireguard.
 | Region | Hostname    | AS  | WireGuard Port | WireGuard Pubkey | Tunneled IPv4 | Tunneled IPv6 |
 | ---    | ----        | --- | ---            | ---              | --            | --            |
 | LAX    | lax.ccp.ovh | `4242421123` | \* | `Z6OKJSR1sxMBgUd1uXEe/UxoBsOvRgbTnexy7z/ryUI=` | `172.20.47.1` | `fe80::1123` |
-| AMS    | ams.ccp.ovh | `4242421123` | \* | `e5X1ZlZUOVtTFeWi+d6cUqqNaXB0F2UHwbquAKU4z3I=` | `172.20.47.2` | `fe79::1123` |
+| AMS    | ams.ccp.ovh | `4242421123` | \* | `e5X1ZlZUOVtTFeWi+d6cUqqNaXB0F2UHwbquAKU4z3I=` | `172.20.47.2` | `fe80::1123` |
 | HKG    | hkg.ccp.ovh | `4242421123` | \* | `bLysMVqew2hlvJVS17hp+qaURzZuLERLgfSbvK/mgUU=` | `172.20.47.3` | `fe80::1123` |
 
 \*: My local port will be *last 5 digits of your ASN*
