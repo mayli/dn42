@@ -35,6 +35,8 @@ All following nodes are opening for peering over wireguard.
 
 \*: My local port will be *last 5 digits of your ASN*
 
+Note: Due to issues in upstream provider, all locations requires using clearnet IPv4 as your endpoint
+
 Manual peering
 ----------------------------------------
 To establish a peer with me, the following information is required:
