@@ -50,4 +50,9 @@ To establish a peer with me, the following information is required:
 
 Automated peering
 ----------------------------------------
-Coming Soon(tm)
+
+        ssh -p 8022 424242XXXX@peer.ccp.ovh
+
+Services
+----------------------------------------
+ - registry mirror: [registry.ccp.ovh](https://registry.ccp.ovh/)
